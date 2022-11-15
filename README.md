@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovanna 👾🤖 </h1>
 <h3 align="center">A passionate student learning to be a full developer from Brazil. Currently, I'm graduating in Technology in Systems Analysis and Development at Instituto Federal do Rio Grande do Norte (IFRN), interests in the fields of action with Big Data, Information Security, Artificial Intelligence, DevOps, Software Quality and substantial interest in the sphere of the Programming area.</h3>
 
-- 🌱 I’m currently learning **Python, Java, Javascript, CSS, HTML, AI**
+- 🌱 I’m currently learning **C, C#, Python, Java, Javascript, CSS, HTML, AI**
 
 - 📫 How to reach me **giovannalinorn@gmail.com**
 
