@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/gigigabytes" target="blank"><img src="https://img.shields.io/twitter/follow/gigigabytes?logo=twitter&style=for-the-badge" alt="gigigabytes" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Java, Javascript, CSS, HTML, AI**
-
+ 
 - 📫 How to reach me **giovannalinorn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
