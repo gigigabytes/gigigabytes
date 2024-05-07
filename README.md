@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django Projects, Django Rest Framework and Angular;<br>👯 I’m looking to collaborate on Web Development;<br>🌱 I’m currently learning PostgreSQL,  Typescript, Node.js, Express.js and Prisma;<br>⚡ Fun fact: I love playing with cats, indie games, and playing the kalimba (I want to create future projects with music🎶).
+🔭 I’m currently working on Django Projects, Django Rest Framework and Angular;<br>👯 I’m looking to collaborate on Web Development;<br>🌱 I’m currently learning PostgreSQL,  Typescript, Node.js, Express.js and Prisma;<br>⚡ Fun fact: I love playing with cats, indie games, and playing my kalimba (I want to create future projects with music🎶).
 
 
 ## 🌐 Socials:
